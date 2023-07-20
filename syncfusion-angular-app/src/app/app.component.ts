@@ -8,7 +8,8 @@ import {PageSettingsModel } from '@syncfusion/ej2-angular-grids';
 })
 export class AppComponent implements OnInit{
   title = 'syncfusion-angular-app';
+constructor(){}
+
   ngOnInit(): void {
-    throw new Error('Method not implemented.');
   }
 }
