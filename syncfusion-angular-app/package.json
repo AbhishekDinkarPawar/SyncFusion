@@ -19,6 +19,7 @@
     "@angular/platform-browser-dynamic": "^15.2.0",
     "@angular/router": "^15.2.0",
     "@syncfusion/ej2-angular-buttons": "^22.1.39",
+    "@syncfusion/ej2-angular-charts": "^22.1.39",
     "@syncfusion/ej2-angular-grids": "^22.1.39",
     "@syncfusion/ej2-angular-navigations": "^22.1.39",
     "@syncfusion/ej2-material-theme": "~22.1.39",
