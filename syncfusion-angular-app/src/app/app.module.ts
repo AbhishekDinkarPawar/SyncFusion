@@ -9,12 +9,16 @@ import { BasicComponent } from './Components/basic/basic.component';
 import { LayoutComponent } from './Components/layout/layout.component';
 import { AppBarModule } from '@syncfusion/ej2-angular-navigations';
 import { ButtonModule } from '@syncfusion/ej2-angular-buttons';
+import { ChartComponent } from './Components/chart/chart.component';
+import { CarouselComponent } from './Components/carousel/carousel.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BasicComponent,
-    LayoutComponent
+    LayoutComponent,
+    ChartComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,
